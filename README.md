@@ -1,4 +1,4 @@
-# 🚀 Create AWS Account
+# Create AWS Account
 
 Step-by-step guide to creating and configuring your first AWS account.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000001-CreateAWSAccount/)**
+**[Start the workshop](https://vanhoangkha.github.io/000001-CreateAWSAccount/)**
 
 ## Prerequisites
 
